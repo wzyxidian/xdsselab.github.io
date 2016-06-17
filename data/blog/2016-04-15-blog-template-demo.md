@@ -1,10 +1,6 @@
-# My first blog template demo
+# This is a blog demo
 
-Hi here.
-
-## This is markdown view h2
-
-2016-04-15
+Powered by markdown(marked).
 
 ## code
 

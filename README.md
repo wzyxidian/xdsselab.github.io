@@ -1,18 +1,6 @@
-# sselab.org
+# xdsselab.github.io
 
-sselab.org - a static website build with angular
-
-# Getting Started
-
-```sh
-$ cd sselab.org
-# install npm packages
-$ npm install
-# compile
-$ grunt build:dist -v > grunt.log
-# test
-$ node web-server.js
-```
+sselab@XDU - a static website build with angular
 
 # How To Write Blog
 
@@ -32,16 +20,6 @@ Example:
 Powered by markdown(marked).
 ```
 3.browser `http://path/to/blog/2016-04-15-blog-template-demo`
-
-# Issue Tracker
-
-* [issues](https://github.com/xdsselab/sselab.org/issues)
-
-# TODO LIST
-
-- add disqus comment module
-- add test
- 
 
 # LICENSE
 
